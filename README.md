@@ -1,7 +1,7 @@
 
-## 💵 Budget Tracker 💵
+## 💵 Income & Expense Tracker 💵
 
-A simple web-based Budget Tracker to add, view, and manage income and expenses with live balance updates. All transactions are saved in localStorage, so your data persists between sessions.
+A simple web-based Income & Expense Tracker to add, view, and manage income and expenses with live balance updates. All transactions are saved in localStorage, so your data persists between sessions.
 
 Track your spending, visualize your balance, and manage your money easily — all in one interactive app!
 
