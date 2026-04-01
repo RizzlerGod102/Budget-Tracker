@@ -6,14 +6,24 @@ A simple web-based Budget Tracker to add, view, and manage income and expenses w
 Track your spending, visualize your balance, and manage your money easily — all in one interactive app!
 
 🌟 Features
+
 💰 Add Income transactions
+
 🤑 Add Expense transactions
+
 🧮 Automatic balance calculation
+
 ❌ Delete transactions with one click
+
 📝 Persistent data using localStorage
+
 🎨 Color-coded balance: green = positive, pink = negative
+
 📱 Responsive and clean design
+
 🖼️ Screenshots
+
+
 
 Icons in the app / transaction examples:
 
