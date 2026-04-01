@@ -49,3 +49,15 @@ Icons in the app / transaction examples:
 ⚡ JavaScript – Software interactivity and logic
 
 🗄️ LocalStorage API – Save data in the browser
+
+## ⚙️ How to Download & Run
+
+Go to the GitHub repository.
+
+Press the green Code button and select Download ZIP 💾
+
+Extract the ZIP file to a folder on your computer 📂
+
+Open the project folder and double-click index.html 🌐
+
+The app will open in your web browser — no installation required! 🎉
