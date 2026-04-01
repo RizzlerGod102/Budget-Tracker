@@ -29,17 +29,23 @@ Track your spending, visualize your balance, and manage your money easily — al
 Icons in the app / transaction examples:
 
 💰 Income (salary, gifts)
+
 🤑 Expense (laptop, PS5, groceries)
+
 🛒 Shopping
+
 🖥️ Electronics
+
 🍔 Food
+
 🎮 Entertainment
 
-# 💻 Tech Used
-HTML
+# 💻 Tech Stack Used:
 
-CSS
+🌐 HTML – Structure
 
-JavaScript 
+🎨 CSS – Style and layout
 
-LocalStorage API
+⚡ JavaScript – Software interactivity and logic
+
+🗄️ LocalStorage API – Save data in the browser
