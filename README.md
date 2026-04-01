@@ -17,7 +17,7 @@ Track your spending, visualize your balance, and manage your money easily — al
 
 📝 Persistent data using localStorage
 
-🎨 Color-coded balance: green = positive, pink = negative
+🎨 Color-coded balance: green = positive, red = negative
 
 📱 Responsive and clean design
 
